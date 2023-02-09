@@ -1,0 +1,40 @@
+*{
+  background-color:white;
+  
+}
+button:hover{
+  background-color:rgb(86, 201, 19);
+}
+.btn,button{
+    display: flex;
+        display: inline;
+         cursor:pointer;
+          color: red;
+         background-Color:#1589FF;
+     height: 2rem;
+     font-weight: 700;
+     border-radius: 01.5rem;
+}
+.btn{
+  display: flex;
+  display: inline;
+ 
+}
+input{
+  border-radius:1rem;
+}
+table{
+  border-radius: 1rem;
+ 
+}
+tr{
+  border-radius: 2rem;
+}
+.button{
+background:rgb(137, 229, 239);
+color:rgb(241, 13, 13);
+ border-radius: 1rem;
+ margin-left: 10px;
+ margin-bottom: 20px;
+ font-size: 22px;
+}
